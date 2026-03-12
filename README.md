@@ -55,7 +55,7 @@
 ## 💬 Отзывы и предложения
 
 Есть идеи, как улучшить скрипт? Заметили ошибку или просто хотите сказать спасибо? 
-Заходите во вкладку **[Discussions](https://github.com/CTaJloHE/MDOptimizer/discussions)** — буду рад любой обратной связи!
+Заходите во вкладку **[Discussions](https://github.com/CTaJIoHE/MDOptimizer/discussions)** — буду рад любой обратной связи!
 
 ---
 
