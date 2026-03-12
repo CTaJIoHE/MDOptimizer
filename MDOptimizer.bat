@@ -127,7 +127,7 @@ echo.
 set "h_input="
 set /p h_input="%cWhite%Ввод:%cReset% "
 if "%h_input%"=="2" (
-    start https://github.com/MishustinDanil
+    start https://github.com/CTaJIoHE/MDOptimizer
     goto HelpMenu
 )
 if "%h_input%"=="3" goto MainMenu
