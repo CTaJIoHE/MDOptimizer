@@ -1,5 +1,3 @@
-# MDOptimizer
-Умный скрипт для автоматической настройки, оптимизации и установки базового ПО на чистую Windows 10/11
 # 🚀 MDOptimizer
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=for-the-badge&logo=windows)
