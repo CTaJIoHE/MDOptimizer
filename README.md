@@ -25,7 +25,7 @@
 * 📚 **Обновление библиотек:** Visual C++ Redistributable (AIO сборка x86/x64), Java (8, 17, 21), .NET 8 Desktop Runtime, DirectX.
 * 🎬 **Медиаплееры:** Удаление стандартных громоздких плееров Windows 11 (ZuneVideo/Music) и замена их на легкий VLC.
 * 🛡️ **Обход блокировок (Zapret):**
-  * Автоматически качает свежий релиз Zapret.
+  * Автоматически качает свежий релиз утилиты [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) от автора **Flowseal**.
   * Умная интеграция: списки `lists.zip/rar` скачиваются напрямую с GitHub, а архиватор 7-Zip устанавливается автоматически для их распаковки.
   * Вшивает обновленный файл `hosts` для починки Telegram Web.
 * ⚡ **Оптимизация и Debloat:**
