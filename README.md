@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<div align="center"><img src="Files/demo.gif" alt="MDOptimizer Demo" width="700"/></div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/Version-1.2-FF7139?style=for-the-badge" alt="Version 1.2" />
